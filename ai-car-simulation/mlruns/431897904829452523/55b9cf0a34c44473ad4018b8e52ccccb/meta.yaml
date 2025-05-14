@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/Desktop/Machine_Learning_Projects/ai-car-simulation/mlruns/431897904829452523/55b9cf0a34c44473ad4018b8e52ccccb/artifacts
+end_time: 1747197030354
+entry_point_name: ''
+experiment_id: '431897904829452523'
+lifecycle_stage: active
+run_id: 55b9cf0a34c44473ad4018b8e52ccccb
+run_name: capricious-colt-104
+run_uuid: 55b9cf0a34c44473ad4018b8e52ccccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747196992115
+status: 3
+tags: []
+user_id: Christian

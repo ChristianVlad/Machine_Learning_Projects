@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/Desktop/Machine_Learning_Projects/ai-car-simulation/mlruns/431897904829452523/7967654425af4a29ac698cc443e64a2f/artifacts
+end_time: 1747196990666
+entry_point_name: ''
+experiment_id: '431897904829452523'
+lifecycle_stage: active
+run_id: 7967654425af4a29ac698cc443e64a2f
+run_name: orderly-lark-821
+run_uuid: 7967654425af4a29ac698cc443e64a2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747196990622
+status: 3
+tags: []
+user_id: Christian

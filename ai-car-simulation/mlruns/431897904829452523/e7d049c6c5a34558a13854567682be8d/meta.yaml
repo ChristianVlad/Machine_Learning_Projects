@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/Desktop/Machine_Learning_Projects/ai-car-simulation/mlruns/431897904829452523/e7d049c6c5a34558a13854567682be8d/artifacts
+end_time: 1747197083301
+entry_point_name: ''
+experiment_id: '431897904829452523'
+lifecycle_stage: active
+run_id: e7d049c6c5a34558a13854567682be8d
+run_name: smiling-snail-364
+run_uuid: e7d049c6c5a34558a13854567682be8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197058761
+status: 3
+tags: []
+user_id: Christian

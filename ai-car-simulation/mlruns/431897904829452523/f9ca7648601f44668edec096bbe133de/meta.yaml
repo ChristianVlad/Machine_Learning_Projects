@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/Desktop/Machine_Learning_Projects/ai-car-simulation/mlruns/431897904829452523/f9ca7648601f44668edec096bbe133de/artifacts
+end_time: 1747195923925
+entry_point_name: ''
+experiment_id: '431897904829452523'
+lifecycle_stage: active
+run_id: f9ca7648601f44668edec096bbe133de
+run_name: angry-goat-748
+run_uuid: f9ca7648601f44668edec096bbe133de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747195891716
+status: 3
+tags: []
+user_id: Christian
